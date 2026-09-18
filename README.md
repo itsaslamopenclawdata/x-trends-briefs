@@ -15,6 +15,11 @@ AI Coding Workflows · AI Coding Tools
 - `briefs/YYYY-MM-DD.md` — one file per run: trend summary per topic, key tweets
   with engagement, practical (non-hype) takeaways, practice actions, money angles,
   and a ranked cross-topic "do-next" list.
+- `deep-dives/YYYY-MM-DD-<slug>.md` — single-post deep-dive analyses: archived post,
+  claim decode, evidence check, signal quality, practical viability, goal scorecard,
+  counter-steelman, and a verdict + action plan. `deep-dives/INDEX.md` is the ledger
+  (status + retro review dates), `deep-dives/authors.md` tracks author credibility,
+  `deep-dives/claims.md` is the recurring-claims register.
 
 ## How it works
 
