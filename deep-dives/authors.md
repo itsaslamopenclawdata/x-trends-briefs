@@ -9,9 +9,9 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 - Track record: (first dive) — compounding math VERIFIED honest (recomputed); 8-fig net worth self-reported UNVERIFIED; thread attracts impersonation scammers within 1h (audience-quality signal)
 
 ## @rewind02 — rewind (4,864 followers, as of 2026-09-18)
-- Incentive pattern: 18yo high-volume "building in public" creator (25k tweets); **member of a mutual-engagement article pod with @de1lymoon** (cross-replies confirmed both directions)
-- Dives: [2026-09-18 Astra Video Editing](2026-09-18-astra-video-editing-video-use-hyperframes.md) (QUEUE, 75%)
-- Track record: (first dive) — unusually rigorous for the genre: first-person run log WITH a reported failure; claims checked so far: both repos real (TRUE); ElevenLabs Scribe transcription layer verified real (99 languages, word-level timestamps, elevenlabs.io 2026-09-18)
+- Incentive pattern: 18yo high-volume "building in public" creator (25k tweets); **member of a mutual-engagement article pod with @de1lymoon** (cross-replies confirmed both directions); runs a "Full Course" Astra content factory (3 articles dived: Sep 7 capability roundup → Sep 17 video editing)
+- Dives: [2026-09-18 Astra Video Editing](2026-09-18-astra-video-editing-video-use-hyperframes.md) (QUEUE, 75%) · [2026-09-18 Master GPT-6 Astra](2026-09-18-master-gpt6-astra-full-course.md) (SKIP, 80%)
+- Track record: mixed by format — **video article: unusually rigorous** (first-person run log WITH a reported failure; repos verified real; Scribe verified real) vs **capability roundup: zero first-person evidence** (anonymous "testers" throughout, launch-wave seed article). Claims checked so far: repos real (TRUE), Scribe real (TRUE), Terminal-Bench/HF-incident/11h-test claims UNVERIFIED. Prior: trust his tool-tutorials-with-run-logs; discount his secondhand roundups.
 
 ## @0xchromium — Chrome (22,842 followers, as of 2026-09-18)
 - Incentive pattern: high-volume (33k tweets) "AI for non-coders" educator; articles are audience-growth assets; no execution evidence offered
