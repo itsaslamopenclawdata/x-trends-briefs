@@ -11,20 +11,12 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 ## @rewind02 — rewind (4,864 followers, as of 2026-09-18)
 - Incentive pattern: 18yo high-volume "building in public" creator (25k tweets); **member of a mutual-engagement article pod with @de1lymoon** (cross-replies confirmed both directions)
 - Dives: [2026-09-18 Astra Video Editing](2026-09-18-astra-video-editing-video-use-hyperframes.md) (QUEUE, 75%)
-- Track record: (first dive) — unusually rigorous for the genre: first-person run log WITH a reported failure; claims checked so far: both repos real (TRUE)
+- Track record: (first dive) — unusually rigorous for the genre: first-person run log WITH a reported failure; claims checked so far: both repos real (TRUE); ElevenLabs Scribe transcription layer verified real (99 languages, word-level timestamps, elevenlabs.io 2026-09-18)
 
 ## @0xchromium — Chrome (22,842 followers, as of 2026-09-18)
 - Incentive pattern: high-volume (33k tweets) "AI for non-coders" educator; articles are audience-growth assets; no execution evidence offered
 - Dives: [2026-09-18 Astra Sites Playbook](2026-09-18-astra-sites-10k-mrr-playbook.md) (ACT NOW bounded, 70%)
 - Track record: (first dive) — content unusually concrete (falsifiable region caveats, exact pricing) despite zero practitioner proof; claims checked so far: Astra release date TRUE
-
-## @rewind02 — (followers unknown — API returned following: 977 only, as of 2026-09-18)
-- Incentive pattern: tutorial-farm profile — "Full Course" article with 4/5 top replies self-authored
-  (engagement shaping), no artifacts, no cost receipts, no replication evidence
-- Dives: [2026-09-18 Astra Video Editing](2026-09-18-astra-video-editing-transcripts.md) (QUEUE, 65%)
-- Track record: (first dive) — one claim verified (ElevenLabs Scribe exists with word-level
-  timestamps); "video-use" identity/access and free-tier economics UNVERIFIED; treat future
-  posts as low-prior until an artifact or third-party replication appears
 
 ## @de1lymoon — Alex (3,478 followers, as of 2026-09-18)
 - Incentive pattern: AI writer/builder — article-driven account growth; practitioner-adjacent,

@@ -99,3 +99,4 @@ Real tools, verified deps, cheap to build, directly aligned with the skill-compo
 - Repo existence: GitHub API — browser-use/video-use (200), heygen-com/hyperframes (200)
 - Radar archive: 109 tweets, 0 video-editing matches
 - Pod evidence: @rewind02 (author_id 1593536473428623361) in dive #1 replies; @de1lymoon in this thread
+- Parallel independent dive (same tweet, partial-body via og/t.co ladder — auth-walled for it) merged 2026-09-18; its additive findings absorbed here + into claims.md: ElevenLabs Scribe verified real (99 languages, diarisation, word-level timestamps); launch-week Astra cost/reliability complaints corroborated across 3 independent authors ("one prompt runs out of credits" @jocular_solo, "Ultra mode crashes" @thsottiaux) — supports the "eats through the limits" caveat in §4
