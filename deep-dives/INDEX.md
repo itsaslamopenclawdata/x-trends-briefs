@@ -7,7 +7,7 @@ linked file. Newest first.
 
 | date | title | author | tweet_id | signal | goal | eff | money | verdict | conf | status | review |
 |------|-------|--------|----------|--------|------|-----|-------|---------|------|--------|--------|
-| 2026-09-18 | [Master GPT-6 Astra (Full Course)](2026-09-18-master-gpt6-astra-full-course.md) | @rewind02 | 2096918249900224631 | 2.5 | 2 | S | 1 | SKIP (ledger updates) | 80% | PROPOSED | 2026-09-25 |
+| 2026-09-18 | [Master GPT-6 Astra (Full Course)](2026-09-18-master-gpt6-astra-full-course.md) | @rewind02 | 2096918249900224631 | 2.5 | 2 | S | 1 | SKIP (ledger updates) | 85% | PROPOSED | 2026-09-25 |
 | 2026-09-18 | [Miles Deutscher AI Wealth Playbook](2026-09-18-miles-deutscher-ai-wealth-playbook.md) | @milesdeutscher | 2100973827887165500 | 2 | 2 | S | 1 | SKIP (2 extractions) | 80% | PROPOSED | 2026-09-25 |
 | 2026-09-18 | [Selling Grok Bot setups — 5 builds](2026-09-18-selling-grok-bot-setups-5-builds.md) | @0xDepressionn | 2098816352618160337 | 2.5 | 4 | S→M | 3 | QUEUE | 65% | PROPOSED | 2026-09-25 |
 | 2026-09-18 | [Astra Video Editing (video-use + HyperFrames)](2026-09-18-astra-video-editing-video-use-hyperframes.md) | @rewind02 | 2100536800204693623 | 4 | 3.5 | M | 2 | QUEUE | 75% | PROPOSED | 2026-09-25 |

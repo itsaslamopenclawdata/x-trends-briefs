@@ -78,3 +78,31 @@ No actions. Two ledger extractions (below) and one reinforcement note: if the du
 - Article body: authenticated preview browser (8,380 chars, read in full)
 - Cross-ledger: 2026-09-18-two-brain-ai-os-kimi-k3-gpt6-astra.md; 2026-09-18-astra-sites-10k-mrr-playbook.md; 2026-09-18-miles-deutscher-ai-wealth-playbook.md
 - Radar archive: 109 tweets, 0 relevant matches
+
+## Addendum — second pass, same evening (2026-09-18 ~22:45 IST)
+
+Independent re-run invoked by Aslam separately. Body re-retrieved via preview browser:
+identical 8,380-char corpus — retrieval confirmed. Original verdict **SKIP stands**; confidence
+raised 80% → 85% on fresh corroboration. What changed:
+
+1. **FrontierMath claim strengthened** (was UNVERIFIED): fresh search surfaced an independent
+   post (❤110, id 2100986494873989227, 2026-09-18) reporting a FrontierMath Open Problems
+   question solved in an interactive session with GPT-6 Astra involving named researchers
+   (Becker, Greger, Dominik Peters — Peters originally suggested the problem for the benchmark).
+   Still awaiting a primary/academic source; directionally the article's strongest-confirmed claim.
+2. **Astra for Law shipped today** (OpenAI, multiple high-RT posts, id 2100995880610349295 et al.):
+   vertical wrapper on GPT-6 Astra + 230M-URL US legal index; one report puts an independent
+   benchmark at 38.7% → 54% — attributed to the *index*, not the model. Two implications:
+   (a) retrieval-over-model-size is again the accuracy lever (priority #1, RAG);
+   (b) OpenAI shipping its own vertical wrappers compresses the window for horizontal
+   wrapper playbooks (cf. the 0xchromium Sites dive) — a point *against* setup-selling
+   windows like the Grok Bot dive's thesis.
+3. **Usage limits: third independent complaint** ($100/mo Pro user, id 2100995626393563347) —
+   limits row now 3+ independent authors, consistent with launch-week CORROBORATED status.
+4. **Comparison caveat vindicated**: the viral "Gemini 4 benchmark leak" chart claiming
+   dominance over Astra was debunked by multiple trackers (ids 2100993251092070509,
+   2100979858557780349) — exactly the "directional, not definitive" failure mode the
+   article itself warned about.
+
+Process note for future dives: `x_search` returns HTTP 400 on operator/parenthesized queries
+(e.g. `(A OR B) -filter:retweets` failed twice); plain keyword queries work fine.
