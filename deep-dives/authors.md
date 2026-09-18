@@ -3,6 +3,11 @@
 Per-author credibility priors, accumulated across deep-dives and updated at retros.
 Used to pre-bias (correctly) the Decode lens of future dives.
 
+## @rewind02 — rewind (4,864 followers, as of 2026-09-18)
+- Incentive pattern: 18yo high-volume "building in public" creator (25k tweets); **member of a mutual-engagement article pod with @de1lymoon** (cross-replies confirmed both directions)
+- Dives: [2026-09-18 Astra Video Editing](2026-09-18-astra-video-editing-video-use-hyperframes.md) (QUEUE, 75%)
+- Track record: (first dive) — unusually rigorous for the genre: first-person run log WITH a reported failure; claims checked so far: both repos real (TRUE)
+
 ## @0xchromium — Chrome (22,842 followers, as of 2026-09-18)
 - Incentive pattern: high-volume (33k tweets) "AI for non-coders" educator; articles are audience-growth assets; no execution evidence offered
 - Dives: [2026-09-18 Astra Sites Playbook](2026-09-18-astra-sites-10k-mrr-playbook.md) (ACT NOW bounded, 70%)
@@ -14,3 +19,12 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 - Dives: [2026-09-18 Two-Brain AI OS](2026-09-18-two-brain-ai-os-kimi-k3-gpt6-astra.md) (QUEUE, 65%)
 - Track record: (none yet — first dive; reception showed bookmark-heavy "save-for-later"
   audience engagement, no replication evidence in replies)
+
+## @0xDepressionn — Dep (followers unknown — API returned ?, as of 2026-09-18)
+- Incentive pattern: seller — builds at Voxly (AI voice/production-harness product);
+  article is content marketing for the setup-selling lifestyle (explicit follow CTA
+  in first screen, "rest of this series" teaser). Not a farmer — failure-mode sections
+  are practitioner-grade — but commercial claims are the pitch, not evidence.
+- Dives: [2026-09-18 Selling Grok Bot setups](2026-09-18-selling-grok-bot-setups-5-builds.md) (QUEUE, 65%)
+- Track record: (first dive — zero buyer/revenue evidence shown; re-check at 2026-09-25
+  retro whether any "buyers waiting" proof or replication surfaced)
