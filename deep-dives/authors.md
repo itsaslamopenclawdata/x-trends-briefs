@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @ConsciousRide (followers unknown — API returned ?, following 375, as of 2026-09-23)
+- Incentive pattern: AI tooling commentator/curator — launch-wave posts ride announcement traffic; this one is corroborated by independent sources and AWS staff, so signal survived the incentive
+- Dives: [2026-09-23 AWS Strands Harness](../twitter-intelligence/high-signal/2026-09-23-consciousride-aws-strands-harness.md) (EXPERIMENT, 80%)
+- Track record: (first dive) — thread attracted 3 self-identified AWS employees + one first-party practitioner build; strong reply quality vs typical launch hype
+
 ## @mardehaym (followers unknown — API returned ?, following 1086, as of 2026-09-23)
 - Incentive pattern: consultant/agency operator — case-study posts are credential marketing, but structured and falsifiable in shape (timelines, phases)
 - Dives: [2026-09-23 Agent-operable SaaS case](../twitter-intelligence/high-signal/2026-09-23-mardehaym-agent-operable-saas-case.md) (EXPERIMENT, 75%)
