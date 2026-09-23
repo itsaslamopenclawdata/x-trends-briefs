@@ -2,6 +2,35 @@
 
 Per-author credibility priors, accumulated across deep-dives and updated at retros.
 Used to pre-bias (correctly) the Decode lens of future dives.
+Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
+section follow the same format.
+
+## @mardehaym (followers unknown — API returned ?, following 1086, as of 2026-09-23)
+- Incentive pattern: consultant/agency operator — case-study posts are credential marketing, but structured and falsifiable in shape (timelines, phases)
+- Dives: [2026-09-23 Agent-operable SaaS case](../twitter-intelligence/high-signal/2026-09-23-mardehaym-agent-operable-saas-case.md) (EXPERIMENT, 75%)
+- Track record: (first dive) — claims unverifiable but theme independently corroborated in radar archive; watch for follow-up cases with pricing
+
+## @QApilot (followers unknown, following 0, as of 2026-09-23)
+- Incentive pattern: testing-tool vendor account (article CTA) — but thread attracted genuine independent practitioner replies, which carried the real signal
+- Dives: [2026-09-23 Test receipts](../twitter-intelligence/high-signal/2026-09-23-qapilot-agent-built-mobile-app-testing.md) (EXPERIMENT, 80%)
+- Track record: (first dive) — vendor claims unverified; reply-cluster pain points HIGH-confidence (multi-source)
+
+## @a2agent_ai (followers unknown, following 58, as of 2026-09-23)
+- Incentive pattern: automated/curation digest account ("Silicon Valley AI Daily") — zero-engagement link lists; value is curation coverage, not authorship
+- Dives: [2026-09-23 Anthropic financial-services repo](../twitter-intelligence/analyzed/2026-09-23-a2agent_ai-anthropic-financial-services-agents.md) (EXPERIMENT clone-study, 75%)
+- Track record: (first dive) — flagged Xiaomi MiMo-V2.6, EvoOntology paper, non-attention survey in same digest (watch items, unverified)
+
+## @oroagents (verified · followers unknown, following 4, as of 2026-09-23)
+- Incentive pattern: project team announcement account — big view count (69.7k) on 4-following account indicates distribution/promotion; substance gated behind X Article
+- Dives: [2026-09-23 ORO Bench](../twitter-intelligence/analyzed/2026-09-23-oroagents-oro-bench-bittensor.md) (MONITOR, 70%)
+- Track record: (first dive) — nothing falsifiable published in-post
+
+## @damkina7 (followers unknown, following 32, as of 2026-09-23)
+- Incentive pattern: hype-marketing account — extreme superlatives, unnamed tool, t.co-only links; replies partially mismatched (farming pattern)
+- Dives: [2026-09-23 "10,000x faster" hype](../twitter-intelligence/analyzed/2026-09-23-damkina7-10k-x-faster-hype.md) (IGNORE, 90%)
+- Track record: first contact = disqualifying; future posts default LOW prior until a named, checkable artifact appears
+
+## Legacy (pre-xintel, via x-post-deep-dive)
 
 ## @milesdeutscher — Miles Deutscher (679,610 followers, as of 2026-09-18)
 - Incentive pattern: crypto/AI mega-influencer; articles are top-of-funnel content marketing (dual CTA: Skool community + newsletter, feeding @aiedge_); advice generic-by-design for max audience
