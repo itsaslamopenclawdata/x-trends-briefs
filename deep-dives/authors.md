@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @beamnxw (followers unknown — API returned ?, following 854, as of 2026-09-23)
+- Incentive pattern: **paid partnership** for viktor.com — long X Article is a prompt-pack that is also a product funnel ($100 credits CTA)
+- Dives: [2026-09-23 nine standing messages](../twitter-intelligence/high-signal/2026-09-23-beamnxw-nine-messages-ai-employee.md) (EXPERIMENT, 80%)
+- Track record: (first dive) — instruction design is unusually concrete (deny-list, QA-no-edit, send-gate); agency existence and Viktor runtime UNVERIFIED; 554k views on 854-following account looks promoted. Steal the pack; ignore the CTA. Future posts: assume vendor wrap.
+
 ## @lukepierceops — Luke Pierce (followers unknown — API returned ?, following 276, as of 2026-09-23)
 - Incentive pattern: AI-agency operator (Boom Automations) selling a paid Inner Circle; long X Articles are top-of-funnel for DM "INNER CIRCLE" (explicitly not free)
 - Dives: [2026-09-23 180-day $500k AI agency](../twitter-intelligence/analyzed/2026-09-23-lukepierceops-180-day-ai-agency.md) (LEARN, 75%)
