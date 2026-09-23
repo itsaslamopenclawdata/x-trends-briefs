@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @gippp69 — Gipp (followers unknown — API returned ?, following 471, as of 2026-09-23)
+- Incentive pattern: X+Telegram content mill (t.me/GipArcAI); last-7-day timeline is generic reply-guy. One long “complete guide” with a tiny own repo (chalkline).
+- Dives: [2026-09-23 Astra back office + chalkline](../twitter-intelligence/high-signal/2026-09-23-gippp69-astra-agent-back-office.md) (EXPERIMENT, 75%)
+- Track record: (first dive) — architecture is concrete; scoreboard numbers UNVERIFIED; chalkline repo VERIFIED (MIT, 5★). Steal control-plane ideas; discount launch-deck stats. Future posts: assume mill unless a named artifact appears.
+
 ## @beamnxw (followers unknown — API returned ?, following 854, as of 2026-09-23)
 - Incentive pattern: **paid partnership** for viktor.com — long X Article is a prompt-pack that is also a product funnel ($100 credits CTA)
 - Dives: [2026-09-23 nine standing messages](../twitter-intelligence/high-signal/2026-09-23-beamnxw-nine-messages-ai-employee.md) (EXPERIMENT, 80%)
