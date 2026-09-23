@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @0xWast3 — wast3 (followers unknown — API returned ?, following 225, as of 2026-09-23)
+- Incentive pattern: mixed long-form (Kimi memory, DNA/antibiotic) + reply-guy; no product CTA on this article; disclaimer to verify at kimi.com
+- Dives: [2026-09-23 Kimi window ≠ memory](../twitter-intelligence/high-signal/2026-09-23-0xwast3-kimi-memory-engineering.md) (LEARN, 80%)
+- Track record: (first dive) — principle is sound and already matches Hermes; 300-agent/context-graph product claims UNVERIFIED. Steal the Skill vs CONSTRAINTS split; ignore Kimi swarm numbers.
+
 ## @gippp69 — Gipp (followers unknown — API returned ?, following 471, as of 2026-09-23)
 - Incentive pattern: X+Telegram content mill (t.me/GipArcAI); last-7-day timeline is generic reply-guy. One long “complete guide” with a tiny own repo (chalkline).
 - Dives: [2026-09-23 Astra back office + chalkline](../twitter-intelligence/high-signal/2026-09-23-gippp69-astra-agent-back-office.md) (EXPERIMENT, 75%)

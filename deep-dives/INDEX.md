@@ -7,6 +7,7 @@ linked file. Newest first.
 
 | date | title | author | tweet_id | signal | goal | eff | money | verdict | conf | status | review |
 |------|-------|--------|----------|--------|------|-----|-------|---------|------|--------|--------|
+| 2026-09-23 | [Kimi memory engineering — window ≠ memory](../twitter-intelligence/high-signal/2026-09-23-0xwast3-kimi-memory-engineering.md) | @0xWast3 | 2087872696109449303 | 4 | 1,7 | S | 1 | LEARN | 80% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [Astra agent back office + chalkline](../twitter-intelligence/high-signal/2026-09-23-gippp69-astra-agent-back-office.md) | @gippp69 | 2097696163424014406 | 4 | 1,3,7 | S | 1 | EXPERIMENT (after standing-ops) | 75% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [Nine standing messages + send-gate (Viktor paid partnership)](../twitter-intelligence/high-signal/2026-09-23-beamnxw-nine-messages-ai-employee.md) | @beamnxw | 2100486325564477856 | 4 | 7,1 | S | 1 | EXPERIMENT (Hermes-native, no vendor) | 80% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [Astra Sites $10k MRR playbook — xintel](../twitter-intelligence/analyzed/2026-09-23-0xchromium-astra-sites-10k-mrr.md) | @0xchromium | 2100225265162936516 | 3 | 6 | S | 2 | LEARN (rescind ACT NOW) | 75% | PROPOSED | 2026-09-30 |
