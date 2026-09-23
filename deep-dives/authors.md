@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @Sprytixl (followers unknown — API returned ?, following 309, as of 2026-09-23)
+- Incentive pattern: engagement mill. Aug article is a tool mash-up with a false 85%/6× headline; last-7-day posts are repeated “ANTHROPIC LEAKED $Xm / $100K a month” templates (incl. fake Jev)
+- Dives: [2026-09-23 context graph 85%](../twitter-intelligence/analyzed/2026-09-23-sprytixl-context-graph-85pct.md) (ARCHIVE, 90%)
+- Track record: first contact = disqualifying for result claims. Future posts default IGNORE unless a named, checkable artifact (repo/eval table) appears.
+
 ## @0xWast3 — wast3 (followers unknown — API returned ?, following 225, as of 2026-09-23)
 - Incentive pattern: mixed long-form (Kimi memory, DNA/antibiotic) + reply-guy; no product CTA on this article; disclaimer to verify at kimi.com
 - Dives: [2026-09-23 Kimi window ≠ memory](../twitter-intelligence/high-signal/2026-09-23-0xwast3-kimi-memory-engineering.md) (LEARN, 80%)
