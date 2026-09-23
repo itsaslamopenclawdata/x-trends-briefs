@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @lukepierceops — Luke Pierce (followers unknown — API returned ?, following 276, as of 2026-09-23)
+- Incentive pattern: AI-agency operator (Boom Automations) selling a paid Inner Circle; long X Articles are top-of-funnel for DM "INNER CIRCLE" (explicitly not free)
+- Dives: [2026-09-23 180-day $500k AI agency](../twitter-intelligence/analyzed/2026-09-23-lukepierceops-180-day-ai-agency.md) (LEARN, 75%)
+- Track record: (first dive) — operator-level sales sequencing is concrete; close rates, Boom prices, Inner Circle member stats UNVERIFIED; follow-up tweets are Inner Circle onboarding. Treat as seller. Future posts: extract process, discount numbers.
+
 ## @ConsciousRide (followers unknown — API returned ?, following 375, as of 2026-09-23)
 - Incentive pattern: AI tooling commentator/curator — launch-wave posts ride announcement traffic; this one is corroborated by independent sources and AWS staff, so signal survived the incentive
 - Dives: [2026-09-23 AWS Strands Harness](../twitter-intelligence/high-signal/2026-09-23-consciousride-aws-strands-harness.md) (EXPERIMENT, 80%)
