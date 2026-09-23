@@ -7,6 +7,7 @@ linked file. Newest first.
 
 | date | title | author | tweet_id | signal | goal | eff | money | verdict | conf | status | review |
 |------|-------|--------|----------|--------|------|-----|-------|---------|------|--------|--------|
+| 2026-09-23 | [Astra Sites $10k MRR playbook — xintel](../twitter-intelligence/analyzed/2026-09-23-0xchromium-astra-sites-10k-mrr.md) | @0xchromium | 2100225265162936516 | 3 | 6 | S | 2 | LEARN (rescind ACT NOW) | 75% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [180-Day $500K AI Agency plan](../twitter-intelligence/analyzed/2026-09-23-lukepierceops-180-day-ai-agency.md) | @lukepierceops | 2101026188844302617 | 3 | 6 | S | 2 | LEARN (note or ARCHIVE) | 75% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [Miles Deutscher AI Wealth Playbook — xintel refresh](../twitter-intelligence/analyzed/2026-09-23-milesdeutscher-ai-wealth-playbook.md) | @milesdeutscher | 2100973827887165500 | 2 | 6 | S | 1 | ARCHIVE | 85% | PROPOSED | 2026-09-30 |
 | 2026-09-23 | [AWS Strands Harness — model-agnostic OSS agent runtime](../twitter-intelligence/high-signal/2026-09-23-consciousride-aws-strands-harness.md) | @ConsciousRide | 2102367298061582639 | 4 | 1,2 | S-M | 1 | EXPERIMENT (local-model POC) | 80% | PROPOSED | 2026-09-30 |

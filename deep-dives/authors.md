@@ -54,8 +54,8 @@ section follow the same format.
 
 ## @0xchromium — Chrome (22,842 followers, as of 2026-09-18)
 - Incentive pattern: high-volume (33k tweets) "AI for non-coders" educator; articles are audience-growth assets; no execution evidence offered
-- Dives: [2026-09-18 Astra Sites Playbook](2026-09-18-astra-sites-10k-mrr-playbook.md) (ACT NOW bounded, 70%)
-- Track record: (first dive) — content unusually concrete (falsifiable region caveats, exact pricing) despite zero practitioner proof; claims checked so far: Astra release date TRUE
+- Dives: [2026-09-18 Astra Sites Playbook](2026-09-18-astra-sites-10k-mrr-playbook.md) (ACT NOW bounded, 70%) · [2026-09-23 xintel refresh](../twitter-intelligence/analyzed/2026-09-23-0xchromium-astra-sites-10k-mrr.md) (LEARN, 75% — rescinds ACT NOW)
+- Track record: content unusually concrete (falsifiable region caveats, exact pricing) despite zero practitioner proof; Astra release date TRUE. 7-day refresh: 5.7k→16k views, likes 21→24, still 0 replication replies — density of the playbook did not become evidence.
 
 ## @de1lymoon — Alex (3,478 followers, as of 2026-09-18)
 - Incentive pattern: AI writer/builder — article-driven account growth; practitioner-adjacent,
