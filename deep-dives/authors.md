@@ -39,8 +39,8 @@ section follow the same format.
 
 ## @milesdeutscher — Miles Deutscher (679,610 followers, as of 2026-09-18)
 - Incentive pattern: crypto/AI mega-influencer; articles are top-of-funnel content marketing (dual CTA: Skool community + newsletter, feeding @aiedge_); advice generic-by-design for max audience
-- Dives: [2026-09-18 AI Wealth Playbook](2026-09-18-miles-deutscher-ai-wealth-playbook.md) (SKIP w/ extractions, 80%)
-- Track record: (first dive) — compounding math VERIFIED honest (recomputed); 8-fig net worth self-reported UNVERIFIED; thread attracts impersonation scammers within 1h (audience-quality signal)
+- Dives: [2026-09-18 AI Wealth Playbook](2026-09-18-miles-deutscher-ai-wealth-playbook.md) (SKIP w/ extractions, 80%) · [2026-09-23 xintel refresh](../twitter-intelligence/analyzed/2026-09-23-milesdeutscher-ai-wealth-playbook.md) (ARCHIVE, 85%)
+- Track record: compounding math VERIFIED honest (recomputed); 8-fig net worth self-reported UNVERIFIED; day-1 thread attracted impersonation scammers (audience-quality signal). 5-day trajectory: 14k→384k views, 47→1,133 bookmarks, still zero practitioner-replication replies — distribution machine works, claims did not get stronger.
 
 ## @rewind02 — rewind (4,864 followers, as of 2026-09-18)
 - Incentive pattern: 18yo high-volume "building in public" creator (25k tweets); **member of a mutual-engagement article pod with @de1lymoon** (cross-replies confirmed both directions); runs a "Full Course" Astra content factory (3 articles dived: Sep 7 capability roundup → Sep 17 video editing)

@@ -75,6 +75,12 @@ The skill's own test decides it: nothing in Hermes changes, goal relevance is ta
 | Verdict | SKIP (with 2 extractions) |
 | Confidence | 80% (red-team: WATCH 50%) |
 
+## xintel pass (2026-09-23)
+
+Dedup: same tweet_id. Full xintel overlay: `twitter-intelligence/analyzed/2026-09-23-milesdeutscher-ai-wealth-playbook.md`.
+
+Delta only: engagement 14k→384k views, 47→1,133 bookmarks; new replies (sarcasm on $10k/mo, "@grok this true?", durable-loop question, outcome-retainer note). Claims unchanged. **FINAL DECISION: ARCHIVE** (maps the 2026-09-18 SKIP).
+
 ## Sources
 
 - Post: https://x.com/milesdeutscher/status/2100973827887165500 (API fetch 2026-09-18)
