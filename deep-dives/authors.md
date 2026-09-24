@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @free_ai_guides (followers unknown — API returned ?, following 1836, as of 2026-09-24)
+- Incentive pattern: newsletter mill (“one AI superpower every week” + Linktree); infographic threads; Feynman/Buffett prompt-pack content
+- Dives: [2026-09-24 five layers](../twitter-intelligence/analyzed/2026-09-24-free_ai_guides-five-layers.md) (ARCHIVE, 90%)
+- Track record: first contact = generic stack diagram, no artifact. Future posts default IGNORE unless a named repo/eval appears.
+
 ## @eng_khairallah1 — Khairallah AL-Awady (followers unknown — API returned ?, following 1986, as of 2026-09-24)
 - Incentive pattern: long-form Jev tutorial; no Inner Circle/Telegram CTA; publishes vendor caveats (67.8% = agreement, self-run). Treat as educator, still vendor-adjacent.
 - Dives: [2026-09-24 Jev Engineering](../twitter-intelligence/high-signal/2026-09-24-eng_khairallah1-jev-engineering.md) (EXPERIMENT, 80%)
