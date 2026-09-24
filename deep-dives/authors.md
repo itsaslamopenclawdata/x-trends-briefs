@@ -7,8 +7,8 @@ section follow the same format.
 
 ## @Sumanth_077 (followers unknown — API returned ?, following 880, as of 2026-09-24)
 - Incentive pattern: conceptual explainer (no CTA/SDK waitlist in this article); educator-adjacent
-- Dives: [2026-09-24 Jev Clearly Explained](../twitter-intelligence/analyzed/2026-09-24-sumanth_077-jev-clearly-explained.md) (LEARN, 80%)
-- Track record: (first dive) — clean architecture restatement; no vendor scoreboard. Prefer for framing; Khairallah for SDK/jaggedness.
+- Dives: [2026-09-24 Jev Clearly Explained](../twitter-intelligence/analyzed/2026-09-24-sumanth_077-jev-clearly-explained.md) (LEARN, 80%) · 2103106349731340324 promo of same article (ARCHIVE dup)
+- Track record: (first dive) — clean architecture restatement; no vendor scoreboard. Prefer for framing; Khairallah for SDK/jaggedness. Follow-up short is a quote-tweet of himself — no new signal.
 
 ## @free_ai_guides (followers unknown — API returned ?, following 1836, as of 2026-09-24)
 - Incentive pattern: newsletter mill (“one AI superpower every week” + Linktree); infographic threads; Feynman/Buffett prompt-pack content

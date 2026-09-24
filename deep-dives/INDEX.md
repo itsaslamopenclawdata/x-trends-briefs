@@ -7,6 +7,7 @@ linked file. Newest first.
 
 | date | title | author | tweet_id | signal | goal | eff | money | verdict | conf | status | review |
 |------|-------|--------|----------|--------|------|-----|-------|---------|------|--------|--------|
+| 2026-09-24 | [Jev short — promo of 20 Sep article](../twitter-intelligence/analyzed/2026-09-24-sumanth_077-jev-clearly-explained.md) | @Sumanth_077 | 2103106349731340324 | 2 | 1 | — | — | ARCHIVE (dup) | 90% | DONE | — |
 | 2026-09-24 | [Jev Clearly Explained — fold into gap list](../twitter-intelligence/analyzed/2026-09-24-sumanth_077-jev-clearly-explained.md) | @Sumanth_077 | 2101639788961112279 | 3 | 1,2 | S | 1 | LEARN | 80% | PROPOSED | 2026-10-01 |
 | 2026-09-24 | [Five-layer AI productivity infographic](../twitter-intelligence/analyzed/2026-09-24-free_ai_guides-five-layers.md) | @free_ai_guides | 2101325454284407110 | 1 | — | — | — | ARCHIVE | 90% | DONE | — |
 | 2026-09-24 | [Jev Engineering build guide](../twitter-intelligence/high-signal/2026-09-24-eng_khairallah1-jev-engineering.md) | @eng_khairallah1 | 2102767762829447540 | 4 | 1,2,3 | S | 1 | EXPERIMENT (gap vs live Jev) | 80% | PROPOSED | 2026-10-01 |

@@ -123,6 +123,10 @@ None beyond the live gap list.
 
 Red-team: ARCHIVE. Reconcile: LEARN iff the gap list is updated.
 
+## Follow-up tweet (2026-09-24) — 2103106349731340324
+
+Dedup: same author, **quotes this article**. Short thread restates System One / Noul-Choice-Score / runtime owns permissions. ❤9 🔁6 🔖9 👁971. No new primitives. **ARCHIVE as a pointer** — do not write a second analysis.
+
 ## Tags
 
 topics: [jev, routing, loop-control]
