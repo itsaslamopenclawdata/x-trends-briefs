@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @Sumanth_077 (followers unknown — API returned ?, following 880, as of 2026-09-24)
+- Incentive pattern: conceptual explainer (no CTA/SDK waitlist in this article); educator-adjacent
+- Dives: [2026-09-24 Jev Clearly Explained](../twitter-intelligence/analyzed/2026-09-24-sumanth_077-jev-clearly-explained.md) (LEARN, 80%)
+- Track record: (first dive) — clean architecture restatement; no vendor scoreboard. Prefer for framing; Khairallah for SDK/jaggedness.
+
 ## @free_ai_guides (followers unknown — API returned ?, following 1836, as of 2026-09-24)
 - Incentive pattern: newsletter mill (“one AI superpower every week” + Linktree); infographic threads; Feynman/Buffett prompt-pack content
 - Dives: [2026-09-24 five layers](../twitter-intelligence/analyzed/2026-09-24-free_ai_guides-five-layers.md) (ARCHIVE, 90%)
