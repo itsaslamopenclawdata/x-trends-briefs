@@ -5,6 +5,11 @@ Used to pre-bias (correctly) the Decode lens of future dives.
 Since 2026-09-23, new analyses come via skill `xintel`; entries below the legacy
 section follow the same format.
 
+## @eng_khairallah1 — Khairallah AL-Awady (followers unknown — API returned ?, following 1986, as of 2026-09-24)
+- Incentive pattern: long-form Jev tutorial; no Inner Circle/Telegram CTA; publishes vendor caveats (67.8% = agreement, self-run). Treat as educator, still vendor-adjacent.
+- Dives: [2026-09-24 Jev Engineering](../twitter-intelligence/high-signal/2026-09-24-eng_khairallah1-jev-engineering.md) (EXPERIMENT, 80%)
+- Track record: (first dive) — best Jev write-up in the ledger this week; numbers still TypeSafe-sourced. Future Jev posts: prefer this author’s epistemology over 200× PDFs.
+
 ## @Sprytixl (followers unknown — API returned ?, following 309, as of 2026-09-23)
 - Incentive pattern: engagement mill. Aug article is a tool mash-up with a false 85%/6× headline; last-7-day posts are repeated “ANTHROPIC LEAKED $Xm / $100K a month” templates (incl. fake Jev)
 - Dives: [2026-09-23 context graph 85%](../twitter-intelligence/analyzed/2026-09-23-sprytixl-context-graph-85pct.md) (ARCHIVE, 90%)
